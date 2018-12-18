@@ -27,7 +27,9 @@ let roads = [
   { cityA: 8, cityB: 9 },
   { cityA: 8, cityB: 10 },
   { cityA: 1, cityB: 10 },
-  { cityA: 2, cityB: 8 }
+  { cityA: 2, cityB: 8 },
+  { cityA: 11, cityB: 12 },
+  { cityA: 12, cityB: 13 }
 ];
 //==========================
 // Функция поиска маршрута между городами
